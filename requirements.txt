@@ -1,0 +1,8 @@
+streamlit==0.57.3
+xgboost==0.90.0
+pandas==1.0
+plotly-express
+seaborn==0.10.0
+scikit-learn
+shap
+
